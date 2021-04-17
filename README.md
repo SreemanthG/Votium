@@ -205,15 +205,15 @@ Project Link: [https://github.com/SreemanthG/Votium](https://github.com/Sreemant
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/SreemanthG/node-boilerplate-template/graphs/contributors
+[contributors-url]: https://github.com/SreemanthG/Votium/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/SreemanthG/node-boilerplate-template/network/members
+[forks-url]: https://github.com/SreemanthG/Votium/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/SreemanthG/node-boilerplate-template/stargazers
+[stars-url]: https://github.com/SreemanthG/Votium/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/SreemanthG/node-boilerplate-template/issues
+[issues-url]: https://github.com/SreemanthG/Votium/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/SreemanthG/node-boilerplate-template/blob/master/LICENSE
+[license-url]: https://github.com/SreemanthG/Votium/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sreemanth-gourishetty-b60a48182/
 [product-screenshot]: https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png
