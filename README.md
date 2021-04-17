@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://docs.soliditylang.org/en/v0.8.3/" >
-    <img alt="Solidity" title="Solidity" src="https://docs.soliditylang.org/en/v0.8.3/_images/logo.svg" height="50px">
+    <img alt="Solidity" title="Solidity" src="https://miro.medium.com/max/596/0*JJsN4KUuwBRwI0yv.png" height="50px">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://ethereum.org/en/">
