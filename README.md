@@ -77,22 +77,22 @@
 <!-- <p align="center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></p> -->
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it.
 
+This application is made for voting the election candidates. It is implemented using ethereum blockchain 
+
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Eliminates voter frauds
+* High level of security
+* Transparency of transactions is increased
+* Hacking threat reduced
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are technologies we used in this application
 * [Express](https://getbootstrap.com)
-* [Mongo](https://jquery.com)
-* [Nodejs](https://laravel.com)
-
+* [Solidity](https://jquery.com)
+* [Javascript](https://laravel.com)
+* [Ethereum](https://laravel.com)
 
 
 <!-- GETTING STARTED -->
@@ -108,29 +108,42 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+* truffle
+  ```sh
+  npm install truffle -g
+  ```
+* [ganache](https://www.trufflesuite.com/ganache)
+  
+
+ 
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/SreemanthG/Votium.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
+   cd Votium
    npm install
    ```
-<!-- 4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ``` -->
-
+3. Compile and Migrate
+   ```sh
+   truffle compile
+   truffle migrate
+   ```
+   (note: make sure that ganache gui is running in the background)
+4. Run the project
+   ```sh
+   npm run dev
+   ```
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this demo video to understand about the project.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -165,10 +178,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+Feel free to send feedback on [Twitter](https://twitter.com/GSreemanth) or [file an issue](https://github.com/SreemanthG/meetings-api-appointy/issues/new). Feature requests are always welcome. You can contact me at 
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Sreemanth Gourishetty - [@GSreemanth](https://twitter.com/GSreemanth) - sreemanth2001@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/SreemanthG/Votium](https://github.com/SreemanthG/Votium)
 
 
 
@@ -185,12 +199,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
-
-## Feedback
-
-Feel free to send feedback on [Twitter](https://twitter.com/GSreemanth) or [file an issue](https://github.com/SreemanthG/meetings-api-appointy/issues/new). Feature requests are always welcome. You can contact me at sreemanth2001@gmail.com
 
 
 
