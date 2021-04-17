@@ -216,4 +216,4 @@ Project Link: [https://github.com/SreemanthG/Votium](https://github.com/Sreemant
 [license-url]: https://github.com/SreemanthG/Votium/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sreemanth-gourishetty-b60a48182/
-[product-screenshot]: https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png
+[product-screenshot]: https://github.com/SreemanthG/Votium/blob/master/assets/s2.png
