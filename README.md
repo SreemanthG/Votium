@@ -1,2 +1,2 @@
 # Votium
-Votium is an Decentralised and ethereum based voting system. 
+Votium is a Decentralised and ethereum based voting system. 
