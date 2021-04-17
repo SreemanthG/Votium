@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/SreemanthG/Votium/blob/master/assets/s2.png)
 
 <!-- <p align="center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></p> -->
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it.
