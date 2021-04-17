@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="/">
-    <img alt="Votium" title="Votium" src="logo.svg" width="250">
+    <img alt="Votium" title="Votium" src="logo.JPG" width="350">
   </a>
 
   <h3 align="center">Votium</h3>
