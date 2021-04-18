@@ -77,7 +77,7 @@
 <!-- <p align="center"><img src="https://assets.justinmind.com/wp-content/uploads/2018/02/what-is-screen-mockup-header.png" alt="Logo"></p>
 There are many great Nodejs boilerplate templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a nodejs template so amazing that it'll be the last one you ever need -- I think this is it. -->
 
-This application is made for voting the election candidates. It is implemented using ethereum blockchain 
+In this project, we have implemented and tested a sample voting application as a smart contract for the Ethereum network using the Ethereum wallets and the Solidity language. The web application is considered to allow voting for people who have an Ethereum wallet. After an election is held, eventually, the Ethereum blockchain will hold the records of ballots and votes. Users can submit their votes via the Website or directly from their Ethereum wallets, and these transaction requests are handled with the consensus of every single Ethereum node. This consensus creates a transparent environment for voting. In addition to a broad discussion about the reliability and efficiency of the blockchain-based e-voting systems, our application and its test results are presented in this project, too.
 
 Here's why:
 * Eliminates voter frauds
