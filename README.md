@@ -31,7 +31,7 @@
     <a href="https://github.com/sreemanthg/Votium"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SreemanthG/Votium">View Demo</a>
+    <a href="https://youtu.be/wraNGQvVtMY">View Demo</a>
     ·
     <a href="https://github.com/SreemanthG/Votium/issues">Report Bug</a>
     ·
